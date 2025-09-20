@@ -83439,6 +83439,9 @@
 	<programme channel="黑莓动画" start="20250920062800 +0800" stop="20250920102700 +0800">
 		<title lang="zh">21_间谍过家家全集中文版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250920102700 +0800" stop="20250920105900 +0800">
+		<title lang="zh">01_优宝儿歌第三季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -84489,6 +84492,9 @@
 	<programme channel="newtv超级电视剧" start="20250920093400 +0800" stop="20250920102200 +0800">
 		<title lang="zh">25_庆余年第二季</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250920102200 +0800" stop="20250920111300 +0800">
+		<title lang="zh">11_失笑</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -84947,6 +84953,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250920094300 +0800" stop="20250920103000 +0800">
 		<title lang="zh">12_玫瑰的故事</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250920103000 +0800" stop="20250920104900 +0800">
+		<title lang="zh">祛湿专题分享</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
