@@ -65526,6 +65526,9 @@
 	<programme channel="纯享4K" start="20251013103600 +0800" stop="20251013110600 +0800">
 		<title lang="zh">美丽中国说4K 成长中的陪伴</title>
 	</programme>
+	<programme channel="纯享4K" start="20251013110600 +0800" stop="20251013113600 +0800">
+		<title lang="zh">美丽中国说4K 雨林王者</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -80685,6 +80688,9 @@
 	<programme channel="黑莓动画" start="20251013094100 +0800" stop="20251013110900 +0800">
 		<title lang="zh">太空神鹰</title>
 	</programme>
+	<programme channel="黑莓动画" start="20251013110900 +0800" stop="20251013123300 +0800">
+		<title lang="zh">淘气包马小跳</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -81507,6 +81513,9 @@
 	<programme channel="newtv超级综艺" start="20251013091800 +0800" stop="20251013111600 +0800">
 		<title lang="zh">开播吧！国潮</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20251013111600 +0800" stop="20251013122800 +0800">
+		<title lang="zh">会唱歌的院子</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -81660,6 +81669,9 @@
 	<programme channel="newtv精品大剧" start="20251013103000 +0800" stop="20251013111000 +0800">
 		<title lang="zh">太空骨王骨胶原新版</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20251013111000 +0800" stop="20251013115600 +0800">
+		<title lang="zh">16_大秦帝国之裂变</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -81809,6 +81821,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20251013103200 +0800" stop="20251013111200 +0800">
 		<title lang="zh">虾青素推广片4001087099</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20251013111200 +0800" stop="20251013115400 +0800">
+		<title lang="zh">21_黑白密码</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -81984,6 +81999,9 @@
 	<programme channel="newtv动作电影" start="20251013104100 +0800" stop="20251013111000 +0800">
 		<title lang="zh">书法视频</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20251013111000 +0800" stop="20251013121700 +0800">
+		<title lang="zh">王牌保镖之疾速追击</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -82151,6 +82169,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20251013104900 +0800" stop="20251013111500 +0800">
 		<title lang="zh">青春在这里淬火 第一集 我的女儿是海军女兵</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20251013111500 +0800" stop="20251013114000 +0800">
+		<title lang="zh">直击西藏定日县6.8级地震救援 第一集</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
