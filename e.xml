@@ -50046,6 +50046,9 @@
 	<programme channel="newtv超级体育" start="20260522040000 +0800" stop="20260522053000 +0800">
 		<title lang="zh">国际足球赛场-25-26赛季法甲联赛第20轮 里昂-里尔</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260522053000 +0800" stop="20260522060000 +0800">
+		<title lang="zh">实况录像-2026年射箭世界杯 中国站 3</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -50084,6 +50087,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260522043100 +0800" stop="20260522051600 +0800">
 		<title lang="zh">38_什刹海</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260522051600 +0800" stop="20260522060200 +0800">
+		<title lang="zh">39_什刹海</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50294,6 +50300,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260522042600 +0800" stop="20260522051000 +0800">
 		<title lang="zh">20_黎明决战</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260522051000 +0800" stop="20260522055300 +0800">
+		<title lang="zh">21_黎明决战</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
