@@ -50049,6 +50049,9 @@
 	<programme channel="newtv超级体育" start="20260824193000 +0800" stop="20260824213000 +0800">
 		<title lang="zh">2026年亚洲女排锦标赛-小组赛(中国队—伊朗队)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260824213000 +0800" stop="20260824223500 +0800">
+		<title lang="zh">体育世界</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -50099,6 +50102,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260824195900 +0800" stop="20260824213400 +0800">
 		<title lang="zh">见习排爆手</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260824213400 +0800" stop="20260824231000 +0800">
+		<title lang="zh">魔幻岛奇遇</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -50189,6 +50195,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260824204500 +0800" stop="20260824214600 +0800">
 		<title lang="zh">36_故乡，别来无恙</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260824214600 +0800" stop="20260824223200 +0800">
+		<title lang="zh">32_情满九道弯</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50834,6 +50843,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260824204100 +0800" stop="20260824211600 +0800">
 		<title lang="zh">美国云杉新一代苏糖酸镁益脑黄金-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260824211600 +0800" stop="20260824220100 +0800">
+		<title lang="zh">37_无间</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
